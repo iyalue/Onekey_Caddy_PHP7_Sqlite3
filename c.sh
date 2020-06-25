@@ -56,7 +56,7 @@ port1="80"
 port2="443"
 
 # alterId值越小越省内存
-alterId="8"
+alterId="64"
 #用于websocket分流的随机端口
 let port3=$RANDOM+10000
 
